@@ -1,0 +1,3 @@
+C:\Users\Dell Ultrabook\Documents\Visual Studio 2015\Projects\DoVuiToanHoc\DoVuiToanHoc\bin\Debug\DoVuiToanHoc.exe.config
+C:\Users\Dell Ultrabook\Documents\Visual Studio 2015\Projects\DoVuiToanHoc\DoVuiToanHoc\obj\Debug\DoVuiToanHoc.exe
+C:\Users\Dell Ultrabook\Documents\Visual Studio 2015\Projects\DoVuiToanHoc\DoVuiToanHoc\obj\Debug\DoVuiToanHoc.pdb
